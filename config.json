@@ -1,14 +1,53 @@
 [
   {
-    "name":"Big Corporation",
-    "numberOfEmployees":10000,
-    "CEO":"Mary",
-    "Ratings":4.0
-  },
-  {
-    "name":"Small Startup",
-    "numberOfEmployees":4,
-    "CEO":null,
-    "Ratings":4.3
+    "breedId":"B101",
+    "breedName":"Golden Retriever",
+    "description":"Freindly Intelligent and Devoted. Great Family Dog",
+    "size":"Large",
+    "lifespan":"10-12 Years",
+    "origin":"Scotland",
+    "imageURL":"https://dog.ceo/api/breeds/image/random"
+  },{ 
+    "breedId":"B102",
+    "breedName":"Shih Tzu",
+    "description":"ABC",
+    "size":"Medium",
+    "lifespan":"10-18  Years",
+    "origin":"England",
+    "imageURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Shihtzu_%28cropped%29.jpg/220px-Shihtzu_%28cropped%29.jpg"
+  },{
+    "breedId":"B103",
+    "breedName":"Chihuahua",
+    "description":"Cute Dog",
+    "size":"Small",
+    "lifespan":"15-17 Years",
+    "origin":"England",
+    "imageURL":"https://cdn.britannica.com/44/233244-050-A65D4571/Chihuahua-dog.jpg"
+  },{
+    "breedId":"B104",
+    "breedName":"Cocker Spaniel",
+    "description":"India",
+    "size":"Large",
+    "lifespan":"10-14 Years",
+    "origin":"Russia",
+    "imageURL":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fcocker-spaniel&psig=AOvVaw3EgrcbOVBGlMeFRW6e4Omm&ust=1725945384032000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOilpoaOtYgDFQAAAAAdAAAAABAM"
+  },{
+    "breedId":"B105",
+    "breedName":"Bull Dog",
+    "description":"America",
+    "size":"Small",
+    "lifespan":"10-12 Span Years",
+    "origin":"England",
+    "imageURL":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBulldog&psig=AOvVaw3EgrcbOVBGlMeFRW6e4Omm&ust=1725945384032000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOilpoaOtYgDFQAAAAAdAAAAABAR"
+    
+  },{
+    "breedId":"B106",
+    "breedName":"Boxer",
+    "description":"USA",
+    "size":"Medium",
+    "lifespan":"10-12 Span Years",
+    "origin":"England",
+    "imageURL":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBoxer_%2528dog_breed%2529&psig=AOvVaw3EgrcbOVBGlMeFRW6e4Omm&ust=1725945384032000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOilpoaOtYgDFQAAAAAdAAAAABAW"
+    
   }
 ]
